@@ -1,0 +1,2522 @@
+[
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:00:00Z",
+    "severity": "ERROR",
+    "message": "502 upstream timeout calling payments; trace shows 800ms timeout"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:01:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0001; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:02:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0002; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:03:00Z",
+    "severity": "ERROR",
+    "message": "502 upstream timeout calling payments; trace shows 800ms timeout"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:04:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0004; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:05:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0005; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:06:00Z",
+    "severity": "ERROR",
+    "message": "502 upstream timeout calling payments; trace shows 800ms timeout"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:07:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0007; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:08:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0008; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:09:00Z",
+    "severity": "ERROR",
+    "message": "502 upstream timeout calling payments; trace shows 800ms timeout"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:10:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0010; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:11:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0011; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:12:00Z",
+    "severity": "ERROR",
+    "message": "502 upstream timeout calling payments; trace shows 800ms timeout"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:13:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0013; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:14:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0014; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:15:00Z",
+    "severity": "ERROR",
+    "message": "502 upstream timeout calling payments; trace shows 800ms timeout"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:16:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0016; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:17:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0017; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:18:00Z",
+    "severity": "ERROR",
+    "message": "502 upstream timeout calling payments; trace shows 800ms timeout"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:19:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0019; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:20:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0020; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:21:00Z",
+    "severity": "ERROR",
+    "message": "502 upstream timeout calling payments; trace shows 800ms timeout"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:22:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0022; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:23:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0023; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:24:00Z",
+    "severity": "ERROR",
+    "message": "502 upstream timeout calling payments; trace shows 800ms timeout"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:25:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0025; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:26:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0026; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:27:00Z",
+    "severity": "ERROR",
+    "message": "502 upstream timeout calling payments; trace shows 800ms timeout"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:28:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0028; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:29:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0029; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:30:00Z",
+    "severity": "ERROR",
+    "message": "502 upstream timeout calling payments; trace shows 800ms timeout"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:31:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0031; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:32:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0032; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:33:00Z",
+    "severity": "ERROR",
+    "message": "502 upstream timeout calling payments; trace shows 800ms timeout"
+  },
+  {
+    "service": "checkout",
+    "timestamp": "2026-11-17T12:34:00Z",
+    "severity": "INFO",
+    "message": "checkout request handled; request_id=checkout-0034; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:00:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0000; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:01:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0001; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:02:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0002; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:03:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0003; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:04:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0004; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:05:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0005; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:06:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0006; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:07:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0007; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:08:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0008; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:09:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0009; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:10:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0010; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:11:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0011; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:12:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0012; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:13:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0013; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:14:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0014; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:15:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0015; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:16:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0016; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:17:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0017; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:18:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0018; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:19:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0019; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:20:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0020; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:21:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0021; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:22:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0022; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:23:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0023; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:24:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0024; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:25:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0025; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:26:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0026; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:27:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0027; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:28:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0028; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:29:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0029; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:30:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0030; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:31:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0031; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:32:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0032; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:33:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0033; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "payments",
+    "timestamp": "2026-11-17T12:34:00Z",
+    "severity": "INFO",
+    "message": "payments request handled; request_id=payments-0034; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:00:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0000; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:01:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0001; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:02:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0002; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:03:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0003; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:04:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0004; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:05:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0005; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:06:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0006; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:07:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0007; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:08:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0008; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:09:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0009; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:10:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0010; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:11:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0011; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:12:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0012; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:13:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0013; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:14:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0014; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:15:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0015; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:16:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0016; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:17:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0017; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:18:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0018; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:19:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0019; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:20:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0020; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:21:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0021; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:22:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0022; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:23:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0023; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:24:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0024; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:25:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0025; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:26:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0026; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:27:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0027; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:28:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0028; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:29:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0029; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:30:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0030; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:31:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0031; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:32:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0032; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:33:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0033; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "inventory",
+    "timestamp": "2026-11-17T12:34:00Z",
+    "severity": "INFO",
+    "message": "inventory request handled; request_id=inventory-0034; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:00:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0000; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:01:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0001; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:02:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0002; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:03:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0003; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:04:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0004; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:05:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0005; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:06:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0006; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:07:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0007; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:08:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0008; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:09:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0009; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:10:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0010; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:11:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0011; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:12:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0012; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:13:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0013; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:14:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0014; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:15:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0015; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:16:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0016; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:17:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0017; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:18:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0018; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:19:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0019; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:20:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0020; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:21:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0021; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:22:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0022; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:23:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0023; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:24:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0024; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:25:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0025; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:26:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0026; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:27:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0027; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:28:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0028; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:29:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0029; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:30:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0030; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:31:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0031; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:32:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0032; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:33:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0033; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "orders",
+    "timestamp": "2026-11-17T12:34:00Z",
+    "severity": "INFO",
+    "message": "orders request handled; request_id=orders-0034; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:00:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0000; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:01:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0001; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:02:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0002; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:03:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0003; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:04:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0004; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:05:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0005; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:06:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0006; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:07:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0007; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:08:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0008; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:09:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0009; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:10:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0010; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:11:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0011; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:12:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0012; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:13:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0013; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:14:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0014; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:15:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0015; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:16:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0016; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:17:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0017; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:18:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0018; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:19:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0019; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:20:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0020; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:21:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0021; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:22:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0022; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:23:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0023; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:24:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0024; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:25:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0025; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:26:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0026; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:27:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0027; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:28:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0028; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:29:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0029; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:30:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0030; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:31:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0031; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:32:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0032; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:33:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0033; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "auth",
+    "timestamp": "2026-11-17T12:34:00Z",
+    "severity": "INFO",
+    "message": "auth request handled; request_id=auth-0034; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:00:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0000; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:01:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0001; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:02:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0002; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:03:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0003; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:04:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0004; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:05:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0005; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:06:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0006; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:07:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0007; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:08:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0008; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:09:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0009; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:10:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0010; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:11:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0011; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:12:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0012; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:13:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0013; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:14:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0014; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:15:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0015; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:16:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0016; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:17:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0017; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:18:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0018; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:19:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0019; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:20:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0020; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:21:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0021; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:22:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0022; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:23:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0023; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:24:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0024; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:25:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0025; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:26:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0026; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:27:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0027; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:28:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0028; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:29:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0029; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:30:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0030; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:31:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0031; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:32:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0032; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:33:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0033; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "catalog",
+    "timestamp": "2026-11-17T12:34:00Z",
+    "severity": "INFO",
+    "message": "catalog request handled; request_id=catalog-0034; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:00:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0000; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:01:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0001; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:02:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0002; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:03:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0003; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:04:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0004; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:05:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0005; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:06:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0006; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:07:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0007; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:08:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0008; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:09:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0009; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:10:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0010; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:11:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0011; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:12:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0012; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:13:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0013; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:14:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0014; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:15:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0015; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:16:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0016; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:17:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0017; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:18:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0018; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:19:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0019; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:20:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0020; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:21:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0021; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:22:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0022; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:23:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0023; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:24:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0024; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:25:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0025; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:26:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0026; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:27:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0027; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:28:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0028; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:29:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0029; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:30:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0030; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:31:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0031; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:32:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0032; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:33:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0033; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "shipping",
+    "timestamp": "2026-11-17T12:34:00Z",
+    "severity": "INFO",
+    "message": "shipping request handled; request_id=shipping-0034; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:00:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0000; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:01:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0001; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:02:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0002; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:03:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0003; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:04:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0004; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:05:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0005; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:06:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0006; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:07:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0007; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:08:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0008; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:09:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0009; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:10:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0010; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:11:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0011; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:12:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0012; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:13:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0013; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:14:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0014; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:15:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0015; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:16:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0016; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:17:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0017; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:18:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0018; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:19:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0019; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:20:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0020; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:21:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0021; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:22:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0022; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:23:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0023; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:24:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0024; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:25:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0025; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:26:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0026; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:27:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0027; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:28:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0028; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:29:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0029; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:30:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0030; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:31:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0031; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:32:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0032; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:33:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0033; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "notifications",
+    "timestamp": "2026-11-17T12:34:00Z",
+    "severity": "INFO",
+    "message": "notifications request handled; request_id=notifications-0034; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:00:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0000; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:01:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0001; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:02:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0002; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:03:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0003; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:04:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0004; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:05:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0005; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:06:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0006; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:07:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0007; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:08:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0008; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:09:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0009; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:10:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0010; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:11:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0011; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:12:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0012; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:13:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0013; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:14:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0014; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:15:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0015; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:16:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0016; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:17:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0017; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:18:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0018; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:19:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0019; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:20:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0020; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:21:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0021; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:22:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0022; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:23:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0023; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:24:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0024; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:25:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0025; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:26:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0026; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:27:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0027; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:28:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0028; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:29:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0029; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:30:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0030; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:31:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0031; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:32:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0032; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:33:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0033; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "pricing",
+    "timestamp": "2026-11-17T12:34:00Z",
+    "severity": "INFO",
+    "message": "pricing request handled; request_id=pricing-0034; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:00:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0000; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:01:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0001; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:02:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0002; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:03:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0003; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:04:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0004; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:05:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0005; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:06:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0006; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:07:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0007; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:08:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0008; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:09:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0009; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:10:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0010; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:11:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0011; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:12:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0012; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:13:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0013; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:14:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0014; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:15:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0015; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:16:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0016; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:17:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0017; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:18:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0018; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:19:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0019; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:20:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0020; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:21:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0021; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:22:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0022; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:23:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0023; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:24:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0024; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:25:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0025; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:26:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0026; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:27:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0027; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:28:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0028; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:29:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0029; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:30:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0030; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:31:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0031; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:32:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0032; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:33:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0033; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "search",
+    "timestamp": "2026-11-17T12:34:00Z",
+    "severity": "INFO",
+    "message": "search request handled; request_id=search-0034; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:00:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0000; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:01:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0001; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:02:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0002; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:03:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0003; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:04:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0004; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:05:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0005; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:06:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0006; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:07:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0007; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:08:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0008; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:09:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0009; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:10:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0010; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:11:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0011; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:12:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0012; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:13:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0013; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:14:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0014; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:15:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0015; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:16:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0016; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:17:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0017; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:18:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0018; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:19:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0019; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:20:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0020; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:21:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0021; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:22:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0022; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:23:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0023; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:24:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0024; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:25:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0025; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:26:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0026; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:27:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0027; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:28:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0028; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:29:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0029; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:30:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0030; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:31:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0031; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:32:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0032; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:33:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0033; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "recommendations",
+    "timestamp": "2026-11-17T12:34:00Z",
+    "severity": "INFO",
+    "message": "recommendations request handled; request_id=recommendations-0034; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:00:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0000; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:01:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0001; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:02:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0002; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:03:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0003; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:04:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0004; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:05:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0005; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:06:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0006; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:07:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0007; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:08:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0008; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:09:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0009; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:10:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0010; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:11:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0011; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:12:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0012; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:13:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0013; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:14:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0014; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:15:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0015; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:16:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0016; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:17:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0017; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:18:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0018; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:19:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0019; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:20:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0020; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:21:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0021; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:22:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0022; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:23:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0023; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:24:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0024; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:25:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0025; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:26:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0026; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:27:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0027; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:28:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0028; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:29:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0029; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:30:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0030; cache_status=hit; node=prod-2"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:31:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0031; cache_status=hit; node=prod-3"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:32:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0032; cache_status=hit; node=prod-0"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:33:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0033; cache_status=hit; node=prod-1"
+  },
+  {
+    "service": "users",
+    "timestamp": "2026-11-17T12:34:00Z",
+    "severity": "INFO",
+    "message": "users request handled; request_id=users-0034; cache_status=hit; node=prod-2"
+  }
+]

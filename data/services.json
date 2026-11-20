@@ -1,0 +1,209 @@
+[
+  {
+    "identifier": "checkout",
+    "title": "Checkout Service",
+    "team": "commerce",
+    "repo": "https://github.com/example-shop/checkout",
+    "environment": "production",
+    "dependencies": [
+      "payments",
+      "inventory",
+      "pricing"
+    ],
+    "runbook": "Runbook for checkout: inspect error rate, traces, and last deployment; escalate to commerce on-call.",
+    "latest_deployment": {
+      "version": "2026.11.10",
+      "status": "success",
+      "change": "payment timeout reduced to 800ms"
+    },
+    "health": "degraded",
+    "notes": "Elevated 502 errors after deploy. Payment requests time out; investigate checkout to payments latency."
+  },
+  {
+    "identifier": "payments",
+    "title": "Payments Service",
+    "team": "platform",
+    "repo": "https://github.com/example-shop/payments",
+    "environment": "production",
+    "dependencies": [
+      "auth"
+    ],
+    "runbook": "Runbook for payments: inspect error rate, traces, and last deployment; escalate to platform on-call.",
+    "latest_deployment": {
+      "version": "2026.11.11",
+      "status": "success",
+      "change": "payments routine deployment"
+    },
+    "health": "healthy",
+    "notes": "payments service is operational; periodic log rotation and standard monitoring."
+  },
+  {
+    "identifier": "inventory",
+    "title": "Inventory Service",
+    "team": "growth",
+    "repo": "https://github.com/example-shop/inventory",
+    "environment": "production",
+    "dependencies": [],
+    "runbook": "Runbook for inventory: inspect error rate, traces, and last deployment; escalate to growth on-call.",
+    "latest_deployment": {
+      "version": "2026.11.12",
+      "status": "success",
+      "change": "inventory routine deployment"
+    },
+    "health": "healthy",
+    "notes": "inventory service is operational; periodic log rotation and standard monitoring."
+  },
+  {
+    "identifier": "orders",
+    "title": "Orders Service",
+    "team": "commerce",
+    "repo": "https://github.com/example-shop/orders",
+    "environment": "production",
+    "dependencies": [
+      "checkout",
+      "shipping"
+    ],
+    "runbook": "Runbook for orders: inspect error rate, traces, and last deployment; escalate to commerce on-call.",
+    "latest_deployment": {
+      "version": "2026.11.13",
+      "status": "success",
+      "change": "orders routine deployment"
+    },
+    "health": "healthy",
+    "notes": "orders service is operational; periodic log rotation and standard monitoring."
+  },
+  {
+    "identifier": "auth",
+    "title": "Auth Service",
+    "team": "platform",
+    "repo": "https://github.com/example-shop/auth",
+    "environment": "production",
+    "dependencies": [],
+    "runbook": "Runbook for auth: inspect error rate, traces, and last deployment; escalate to platform on-call.",
+    "latest_deployment": {
+      "version": "2026.11.14",
+      "status": "success",
+      "change": "auth routine deployment"
+    },
+    "health": "healthy",
+    "notes": "auth service is operational; periodic log rotation and standard monitoring."
+  },
+  {
+    "identifier": "catalog",
+    "title": "Catalog Service",
+    "team": "growth",
+    "repo": "https://github.com/example-shop/catalog",
+    "environment": "production",
+    "dependencies": [
+      "inventory"
+    ],
+    "runbook": "Runbook for catalog: inspect error rate, traces, and last deployment; escalate to growth on-call.",
+    "latest_deployment": {
+      "version": "2026.11.15",
+      "status": "success",
+      "change": "catalog routine deployment"
+    },
+    "health": "healthy",
+    "notes": "catalog service is operational; periodic log rotation and standard monitoring."
+  },
+  {
+    "identifier": "shipping",
+    "title": "Shipping Service",
+    "team": "commerce",
+    "repo": "https://github.com/example-shop/shipping",
+    "environment": "production",
+    "dependencies": [
+      "orders"
+    ],
+    "runbook": "Runbook for shipping: inspect error rate, traces, and last deployment; escalate to commerce on-call.",
+    "latest_deployment": {
+      "version": "2026.11.16",
+      "status": "success",
+      "change": "shipping routine deployment"
+    },
+    "health": "healthy",
+    "notes": "shipping service is operational; periodic log rotation and standard monitoring."
+  },
+  {
+    "identifier": "notifications",
+    "title": "Notifications Service",
+    "team": "platform",
+    "repo": "https://github.com/example-shop/notifications",
+    "environment": "production",
+    "dependencies": [],
+    "runbook": "Runbook for notifications: inspect error rate, traces, and last deployment; escalate to platform on-call.",
+    "latest_deployment": {
+      "version": "2026.11.17",
+      "status": "success",
+      "change": "notifications routine deployment"
+    },
+    "health": "healthy",
+    "notes": "notifications service is operational; periodic log rotation and standard monitoring."
+  },
+  {
+    "identifier": "pricing",
+    "title": "Pricing Service",
+    "team": "growth",
+    "repo": "https://github.com/example-shop/pricing",
+    "environment": "production",
+    "dependencies": [],
+    "runbook": "Runbook for pricing: inspect error rate, traces, and last deployment; escalate to growth on-call.",
+    "latest_deployment": {
+      "version": "2026.11.18",
+      "status": "success",
+      "change": "pricing routine deployment"
+    },
+    "health": "healthy",
+    "notes": "pricing service is operational; periodic log rotation and standard monitoring."
+  },
+  {
+    "identifier": "search",
+    "title": "Search Service",
+    "team": "commerce",
+    "repo": "https://github.com/example-shop/search",
+    "environment": "production",
+    "dependencies": [
+      "catalog"
+    ],
+    "runbook": "Runbook for search: inspect error rate, traces, and last deployment; escalate to commerce on-call.",
+    "latest_deployment": {
+      "version": "2026.11.19",
+      "status": "success",
+      "change": "search routine deployment"
+    },
+    "health": "healthy",
+    "notes": "search service is operational; periodic log rotation and standard monitoring."
+  },
+  {
+    "identifier": "recommendations",
+    "title": "Recommendations Service",
+    "team": "platform",
+    "repo": "https://github.com/example-shop/recommendations",
+    "environment": "production",
+    "dependencies": [],
+    "runbook": "Runbook for recommendations: inspect error rate, traces, and last deployment; escalate to platform on-call.",
+    "latest_deployment": {
+      "version": "2026.11.20",
+      "status": "success",
+      "change": "recommendations routine deployment"
+    },
+    "health": "healthy",
+    "notes": "recommendations service is operational; periodic log rotation and standard monitoring."
+  },
+  {
+    "identifier": "users",
+    "title": "Users Service",
+    "team": "growth",
+    "repo": "https://github.com/example-shop/users",
+    "environment": "production",
+    "dependencies": [],
+    "runbook": "Runbook for users: inspect error rate, traces, and last deployment; escalate to growth on-call.",
+    "latest_deployment": {
+      "version": "2026.11.21",
+      "status": "success",
+      "change": "users routine deployment"
+    },
+    "health": "healthy",
+    "notes": "users service is operational; periodic log rotation and standard monitoring."
+  }
+]
